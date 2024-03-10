@@ -1,4 +1,7 @@
 # Screensaver
+
+After start we need download the library, all library in requirements.
+
 ## About the Screensaver
 First I set the stars to a list format,I used the randint to randomly create the coordinates of the stars within the center of the screen， then I added some three-dimensional parameters of the stars and the color of the stars in new_star to control the stars to fly out in the center of the screen.
 
